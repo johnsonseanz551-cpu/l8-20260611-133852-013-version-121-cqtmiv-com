@@ -1,0 +1,13 @@
+{
+  "movie_count": 2000,
+  "html_count": 2017,
+  "detail_count": 2000,
+  "category_count": 12,
+  "category_total": 2000,
+  "baidu_missing_count": 0,
+  "player_missing_count": 0,
+  "missing_category_detail_links_count": 0,
+  "image_assets_in_zip_count": 0,
+  "video_url_source_count": 150,
+  "unique_video_url_count": 20
+}
